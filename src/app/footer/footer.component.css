@@ -1,0 +1,25 @@
+footer{
+    background: white;
+    padding: 0;
+    border-top: 1px solid #e72929;
+
+}
+
+a{
+    color: #af1313;
+    
+}
+a:hover{
+    background: #e72929;
+    color: white;
+}
+.container{
+    margin: 50px 1px;
+    display: flex;
+    justify-content: space-between;
+
+}
+a.logo{
+    font-weight: bold;
+    padding : 1em;
+}
